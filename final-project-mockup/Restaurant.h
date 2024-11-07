@@ -2,6 +2,7 @@
 #include <iostream>
 #include <iomanip>
 #include <string>
+#include "Windows.h"
 using namespace std;
 
 class Restaurant
@@ -27,8 +28,8 @@ public:
 	float getRating()const;
 	string getCuisine()const;
 	int getPrice()const;
-	bool setFavorite()const
-	// the above are more behind the scenes
+	bool setFavorite()const;
+		// the above are more behind the scenes
 
 	void rateRestaurant();
 

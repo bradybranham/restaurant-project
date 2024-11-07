@@ -75,8 +75,18 @@ bool Restaurant::setFavorite()const
 
 // the above are more behind the scenes
 
-void Restaurant::rateRestaurant()
+void Restaurant::rateRestaurant() // mostly conceptual, need to add range checks & whatnot
 {
 	cout << "You are rating: " << name << endl;
-	cout << "Rating: "
+
+	cout << "Rating (1-5): ";
+	cin >> rating;
+	
+	cout << "Favorite? (0 = no, 1 = yes): ";
+	cin >> favorite;
+	
+	cout << "Your rating has been recorded!" << endl;
+
+	Sleep(2000);
+	system("cls");
 }
