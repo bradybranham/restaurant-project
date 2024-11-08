@@ -1,0 +1,50 @@
+Angelini Osteria,Italian veal tenderloin and salad,75.00,4.5
+Bestia,Italian pasta and pizza,80.00,4.6
+Bubba Gump Shrimp Co.,seafood,25.00,4.3
+Guelaguetza,Mexican tacos,25.00,4.3
+Langer's Delicatessen,American pastrami sandwiches,30.00,4.6
+n/naka,Japanese Kaiseki with Grilled Wagyu,185.00,4.9
+Providence,seafood,100.00,4.7
+République,French steak frities and pastries,80.00,4.6
+The Griddle Cafe,American breakfast with pancakes,20.00,4.4
+Wurstküche,German beer with Rattlesnake and Rabbit Sausage,15.00,4.6
+Joan's on Third,home cooked brunch and chicken salad,25.00,4.4
+Maccheroni Republic,Italian homemade pasta,30.00,4.6
+Holbox,Yucatan-style seafood served as ceviche or tacos,25.00,4.8
+Diddy Riese,brownies and icecream sandwiches,20.00,4.6
+Daikokuya Little Tokyo,sushi and ramen,25.00,4.4
+Perch,French Ahi Tuna Tartare and steak frites,80.00,4.4
+Connie and Ted’s,New England seafood,80.00,4.5
+The Ivy,California cuisines with lobster and seafood pasta,80.00,4.2
+Lemonade,Pokes and mango chicken bowl,20.00,4.4
+Tocaya Organica,Mexican tacos and burritos,15.00,4.2
+Hoy-Ka,Thai Noodles,20.00,4.5
+Jitlada,Pad Thai and Jitlada Salad,25.00,4.4
+Hae Jang Chon,Bulgodi and Korea BBQ,45.00,4.5
+Moohan,Korean BBQ,75.00,4.7
+Gangnam Station,Korean BBQ,40.00,4.1
+Sun Nong Dan,braised beef short ribs (Galbi-jjim),50.00,4.3
+Kobawoo House,bossam(boiled pork belly),30.00,4.5
+Aliki's Greek Taverna,Greek beef and chicken souvlaki and baklava,25.00,4.5
+Lucia Mediterranean Grill,Middle East Food with Kebab Plate,25.00,4.9
+Bavel,Middle Eastern hummus,75.00,4.6
+Sushi Gen,Japanese sushi bar,80.00,4.6
+Yamashiro Hollywood,Sushi and Cal-Asian fare,75.00,4.3
+Tsubaki,Japanese latkes and sesame noodles,75.00,4.5
+Marugame Monzo,Japanese curry udon,20.00,4.6
+Kinjiro,Japanese Uni Risotto and beef tongue,100.00,4.7
+Morihiro,Japanese sushi,100.00,4.5
+NIKU X,Japanese seafood buffet,100.00,4.6
+Soregashi,Sashimi,75.00,4.5
+Rossoblu,handmade pastas and Italian wines,75.00,4.5
+Saigon Dish Vietnamese Restaurant,pho and Vietnamese noodles,15.00,4.6
+Viet on Fletcher,Vietnamese vermicelli and rice,20.00,5.0
+KTown Pho,pho,15.00,4.5
+Thien Huong,Vietnamese pancake and banh mi,15.00,4.6
+Pho Filet,pho and springrolls,15.00,4.3
+Bé Ù,Bò-Lá-Lốt(Vietnamese grilled beef wrapped in betel leaf),10.00,4.7
+Com tam Thuan Kieu,Vietnamese broken rice,23.00,3.7
+L&E Oyster Bar,Oyster bar,75.00,4.6
+Pizzana,Pizza,20.00,4.0
+El Compadre,Mexican fajitas and tacos,30.00,4.3
+Pho 87,pho,15.00,4.6
