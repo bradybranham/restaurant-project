@@ -1,8 +1,8 @@
-#include <iostream>
-#include <iomanip>
+#include "Restaurant.h"
 using namespace std;
 
 void displayMenu();
+int makeSelection();
 
 int main()
 {
@@ -20,5 +20,24 @@ void displayMenu()
 	cout << "3) Rate a restaurant" << endl;
 	cout << "4) Help me figure out what to eat" << endl;
 	cout << "-----------------------------------------" << endl;
-	c
+}
+
+int makeSelection()
+{
+	int choice;
+
+	cout << "Your selection: ";
+	cin >> choice;
+
+	if (choice <= 0 || choice >= 5)
+	{
+		cout << "Invalid choice" << endl;
+		Sleep(2000);
+		system("cls");
+	}
+	else
+	{
+		return choice;
+	}
+
 }

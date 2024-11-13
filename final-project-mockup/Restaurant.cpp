@@ -90,3 +90,27 @@ void Restaurant::rateRestaurant() // mostly conceptual, need to add range checks
 	Sleep(2000);
 	system("cls");
 }
+
+void Restaurant::favoriteRestaurant()
+{
+	char fav;
+
+	cout << "Favorite? (Y/N): ";
+	cin >> fav;
+
+	if (fav == 'y' || fav == 'Y')
+	{
+		setFavorite(true);
+	}
+	else if (fav == 'n' || fav == 'N')
+	{
+		setFavorite(false);
+	}
+	else
+	{
+		cout << "Invalid option, returning to menu" << endl;
+		Sleep(2000);
+		system("cls");
+	}
+
+}

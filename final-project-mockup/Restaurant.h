@@ -32,5 +32,6 @@ public:
 		// the above are more behind the scenes
 
 	void rateRestaurant();
+	void favoriteRestaurant();
 
 };
