@@ -1,50 +1,100 @@
+23rd Street Cafe,Indian quesadilla and Mexican buritos,40.00,4.1
+71Above,modern American cuisine with Grilled Ribeye,100.00,4.5
+Ali'i Fish Company,poke bowls and fish burgers,17.00,4.5
+Aliki's Greek Taverna,Greek beef and chicken souvlaki and baklava,25.00,4.5
+Aloha Food Factory,Hawaiian dishes with macadamia pancakes,20.00,4.5
 Angelini Osteria,Italian veal tenderloin and salad,75.00,4.5
+Au Lac,Vegan food,25.00,4.6
+Badmaash,Indian chicken tikka poutine,40.00,4.1
+Bavel,Middle Eastern hummus,75.00,4.6
+Bé Ù,Bò-Lá-Lốt(Vietnamese grilled beef wrapped in betel leaf),10.00,4.7
 Bestia,Italian pasta and pizza,80.00,4.6
+BIG ANT'S BBQ,brisket and Mac n Cheese,60.00,4.6
+Biriyani Kabob House,Indian biryanis and curries,15.00,4.1
+Bon Shabu,Japanese-Korean style hotpot,70.00,4.3
+Brazilian Plate House,Brazilan Prato feito and sandwiches,23.00,4.4
+Broken Mouth,Hawaiian-Asian fusion food,15.00,4.9
 Bubba Gump Shrimp Co.,seafood,25.00,4.3
-Guelaguetza,Mexican tacos,25.00,4.3
-Langer's Delicatessen,American pastrami sandwiches,30.00,4.6
-n/naka,Japanese Kaiseki with Grilled Wagyu,185.00,4.9
-Providence,seafood,100.00,4.7
-République,French steak frities and pastries,80.00,4.6
-The Griddle Cafe,American breakfast with pancakes,20.00,4.4
-Wurstküche,German beer with Rattlesnake and Rabbit Sausage,15.00,4.6
-Joan's on Third,home cooked brunch and chicken salad,25.00,4.4
-Maccheroni Republic,Italian homemade pasta,30.00,4.6
-Holbox,Yucatan-style seafood served as ceviche or tacos,25.00,4.8
-Diddy Riese,brownies and icecream sandwiches,20.00,4.6
-Daikokuya Little Tokyo,sushi and ramen,25.00,4.4
-Perch,French Ahi Tuna Tartare and steak frites,80.00,4.4
+Bulan Thai Vegetarian Kitchen,vegan Thai curry,16.00,4.7
+Cantinho Brasileiro,Brazilian liguica sandwich,15.00,4.6
+Chimmelier,buldak chicken sandwich,15.00,4.5
+Chong Qing YaoMei,Chinese hotpot,45.00,4.6
+Chubby Curry,Japanese curry and wagyu beef,25.00,4.7
+Coco Ichibanya,Japanese curry and cutlet,15.00,4.1
+Com tam Thuan Kieu,Vietnamese broken rice,23.00,3.7
 Connie and Ted’s,New England seafood,80.00,4.5
-The Ivy,California cuisines with lobster and seafood pasta,80.00,4.2
-Lemonade,Pokes and mango chicken bowl,20.00,4.4
-Tocaya Organica,Mexican tacos and burritos,15.00,4.2
+Crawfords,fried chicken and beer,15.00,4.6
+Crossroads Kitchen - Melrose,Vegan food,50.00,4.6
+Daikokuya Little Tokyo,sushi and ramen,25.00,4.4
+daybird,Szechuan fried chicken sandwiches,15.00,4.5
+Diddy Riese,brownies and icecream sandwiches,20.00,4.6
+Doomie's Home Cookin',Vegan food,17.00,4.4
+El Compadre,Mexican fajitas and tacos,30.00,4.3
+Fogo de Chão Brazilian Steakhouse,AYCE or Brazilian seafood,75.00,4.2
+Gangnam Station,Korean BBQ,40.00,4.1
+Gol Tong Chicken,South-Korean-style fried chicken,15.00,4.8
+Go Go Bird,Los Angeles-style fried chicken,24.00,4.2
+Guelaguetza,Mexican tacos,25.00,4.3
+Hae Jang Chon,Bulgodi and Korea BBQ,45.00,4.5
+Haidilao Hot Pot,Sichuan hotpot,60.00,4.8
+Holbox,Yucatan-style seafood served as ceviche or tacos,25.00,4.8
 Hoy-Ka,Thai Noodles,20.00,4.5
 Jitlada,Pad Thai and Jitlada Salad,25.00,4.4
-Hae Jang Chon,Bulgodi and Korea BBQ,45.00,4.5
-Moohan,Korean BBQ,75.00,4.7
-Gangnam Station,Korean BBQ,40.00,4.1
-Sun Nong Dan,braised beef short ribs (Galbi-jjim),50.00,4.3
-Kobawoo House,bossam(boiled pork belly),30.00,4.5
-Aliki's Greek Taverna,Greek beef and chicken souvlaki and baklava,25.00,4.5
-Lucia Mediterranean Grill,Middle East Food with Kebab Plate,25.00,4.9
-Bavel,Middle Eastern hummus,75.00,4.6
-Sushi Gen,Japanese sushi bar,80.00,4.6
-Yamashiro Hollywood,Sushi and Cal-Asian fare,75.00,4.3
-Tsubaki,Japanese latkes and sesame noodles,75.00,4.5
-Marugame Monzo,Japanese curry udon,20.00,4.6
+Joan's on Third,home cooked brunch and chicken salad,25.00,4.4
 Kinjiro,Japanese Uni Risotto and beef tongue,100.00,4.7
-Morihiro,Japanese sushi,100.00,4.5
-NIKU X,Japanese seafood buffet,100.00,4.6
-Soregashi,Sashimi,75.00,4.5
-Rossoblu,handmade pastas and Italian wines,75.00,4.5
-Saigon Dish Vietnamese Restaurant,pho and Vietnamese noodles,15.00,4.6
-Viet on Fletcher,Vietnamese vermicelli and rice,20.00,5.0
+Kismet,Mediterranean meats and Persian Crispy Rice,75.00,4.3
 KTown Pho,pho,15.00,4.5
-Thien Huong,Vietnamese pancake and banh mi,15.00,4.6
-Pho Filet,pho and springrolls,15.00,4.3
-Bé Ù,Bò-Lá-Lốt(Vietnamese grilled beef wrapped in betel leaf),10.00,4.7
-Com tam Thuan Kieu,Vietnamese broken rice,23.00,3.7
+Kobawoo House,bossam(boiled pork belly),30.00,4.5
 L&E Oyster Bar,Oyster bar,75.00,4.6
-Pizzana,Pizza,20.00,4.0
-El Compadre,Mexican fajitas and tacos,30.00,4.3
+Langer's Delicatessen,American pastrami sandwiches,30.00,4.6
+Lao Ma Tou HotPot,Chinese-style hotpot,50.00,4.1
+Lemonade,Pokes and mango chicken bowl,20.00,4.4
+Lokal Sandwich Shop,Vietnamese banh mi,15.00,4.6
+Lucia Mediterranean Grill,Middle East Food with Kebab Plate,25.00,4.9
+Maccheroni Republic,Italian pastas and noodle nexus,30.00,4.6  
+Malama Pono,Hawaiian seafood and meat,75.00,4.8
+Marugame Monzo,Japanese curry udon,20.00,4.6
+Mazal,Israeli vegan food,45.00,4.6
+Moohan,Korean BBQ,75.00,4.7
+Mom's Haus,fried chicken,20.00,4.2
+Moqueca Brazilian,Brazilian food with Premium Fish Moqueca,40.00,4.7
+Morihiro,Japanese sushi,100.00,4.5
+Moo's Craft Barbecue,BBQ meats and hearty burgers,50.00,4.4
+n/naka,Japanese Kaiseki with Grilled Wagyu,185.00,4.9
+NIKU X,Japanese seafood buffet,100.00,4.6
+Nong Lá,Vietnamese banh mi (sandwiches) and coffee,20.00,4.3
+Perch,French Ahi Tuna Tartare and steak frites,80.00,4.4
 Pho 87,pho,15.00,4.6
+Pho Filet,pho and springrolls,15.00,4.3
+Pijja Palace,Indian fusion with dosa onion rings and chicken wings,40.00,4.1
+Pizzana,Pizza,20.00,4.0
+Providence,seafood,100.00,4.7
+Pura Vita,vegan pizza,34.00,4.7
+Qianlixiang spicy hotpot,malatang and hotpot,30.00,4.5
+Rahel Ethiopian Vegan Cuisine,legume and veggie Ethiopian stews,30.00,4.7
+Redbird,Modern American cuisine and wine,100.00,4.6
+République,French steak frities and pastries,80.00,4.6
+Rossoblu,handmade pastas and Italian wines,75.00,4.5
+Ruen Pair,Thai Tom Yum,25.00,4.4
+Sage Regenerative Kitchen & Brewery Echo Park,Vegan food,25.00,4.5
+Saigon Dish Vietnamese Restaurant,pho and Vietnamese noodles,15.00,4.6
+Shancheng Lameizi,Beijing hotpot,65.00,4.2
+Soot Bull Jip,Korean BBQ and stew,60.00,4.3
+Soregashi,Sashimi,75.00,4.5
+Sun Nong Dan,braised beef short ribs (Galbi-jjim),50.00,4.3
+Sushi Gen,Japanese sushi bar,80.00,4.6
+Tocaya Organica,Mexican tacos and burritos,15.00,4.2
+The Butcher's Daughter,Vegan food,25.00,4.4
+The Griddle Cafe,American breakfast with pancakes,20.00,4.4
+The Ivy,California cuisines with lobster and seafood pasta,80.00,4.2
+The Little Door,French Mediterranean meat and seafood,100.00,4.5
+The Vegan Joint,Vegan food,15.000,4.7
+Thien Huong,Vietnamese pancake and banh mi,15.00,4.6
+Tokyo Fried Chicken,Japanese fried chicken,26.00,4.3
+Tsubaki,Japanese latkes and sesame noodles,75.00,4.5
+Ubatuba Açaí,Brazilian acai bowls and smoothies,15.00,4.9
+Viet on Fletcher,Vietnamese vermicelli and rice,20.00,5.0
+Watdongmoonlek Noodle,Thai noodles annd Tom Yum,17.00,4.6
+W Brazilian Steakhouse,Brazilian churrasco and grille meat,40.00,4.6
+Wurstküche,German beer with Rattlesnake and Rabbit Sausage,15.00,4.6
+Yamashiro Hollywood,Sushi and Cal-Asian fare,75.00,4.3
