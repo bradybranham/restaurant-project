@@ -28,7 +28,10 @@ public:
 	float getRating()const;
 	string getCuisine()const;
 	int getPrice()const;
-	bool setFavorite()const;
+	Restaurant* getNext()const;
+	bool getFavorite()const;
+	void setNext(Restaurant* next);
+
 		// the above are more behind the scenes
 
 	void rateRestaurant();

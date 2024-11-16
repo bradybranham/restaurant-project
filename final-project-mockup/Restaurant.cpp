@@ -68,7 +68,17 @@ int Restaurant::getPrice()const
 	return price;
 }
 
-bool Restaurant::setFavorite()const
+Restaurant* Restaurant::getNext()const
+{
+	return next;
+}
+
+void Restaurant::setNext(Restaurant* next)
+{
+	this->next = next;
+}
+
+bool Restaurant::getFavorite()const
 {
 	return favorite;
 }
