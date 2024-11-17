@@ -8,10 +8,10 @@ int main()
 {
 	Restaurant restaurant;
 	RestaurantList restaurantlist;
-	restaurantlist.loadRestaurantsFromFile("Restaurants.txt"); // Load the restaurant data from a file
+	restaurantlist.getRestaurantsFromFile("Restaurants.txt"); // Load the restaurant data from a file
 	restaurant.displayMenu();
 	restaurant.setInitialMenuChoice();
-	restaurantlist.saveRestaurantsToFile();
+	restaurant.saveRestaurantsToFile();
 
 
 	return 0;
