@@ -33,13 +33,12 @@ public:
 	Restaurant* getNext()const;
 	bool getFavorite()const;
 	void setNext(Restaurant* next);
+	// the above are more behind the scenes
 	
 	void saveRestaurantsToFile() const;
-
-		// the above are more behind the scenes
+	void setInitialMenuChoice(); 
 	//I'll be adding ui features - Alex
 	//commenting out to not conflate the work Gemma did - Alex
-	//void setInitialMenuChoice(); 
 	//void displayMenu();
 	//void searchByCuisine();
 	//void seeFavoriteRestaurants();
