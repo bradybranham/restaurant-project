@@ -33,16 +33,17 @@ public:
 	Restaurant* getNext()const;
 	bool getFavorite()const;
 	void setNext(Restaurant* next);
-	void loadRestaurantsFromFile(const std::string& filename);
-	void saveRestaurantsToFile() const;
+	//void loadRestaurantsFromFile(const std::string& filename);
+	//void saveRestaurantsToFile() const;
 
 		// the above are more behind the scenes
 	//I'll be adding ui features - Alex
-	void setInitialMenuChoice(); 
-	void displayMenu();
-	void searchByCuisine();
-	void seeFavoriteRestaurants();
-	void helpMeDecide();
+	//commenting out to not conflate the work Gemma did - Alex
+	//void setInitialMenuChoice(); 
+	//void displayMenu();
+	//void searchByCuisine();
+	//void seeFavoriteRestaurants();
+	//void helpMeDecide();
 
 	void rateRestaurant();
 	void favoriteRestaurant();
