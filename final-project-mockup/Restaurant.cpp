@@ -1,4 +1,9 @@
 #include "Restaurant.h"
+#include <vector>
+#include <fstream>
+#include <sstream>
+#include <iostream> 
+#include <string> 
 
 Restaurant::Restaurant()
 {
@@ -143,6 +148,16 @@ void Restaurant::saveRestaurantsToFile() const {
 		file.close();
 	}
 }
+//initial user interaction stuff - Alex
+void Restaurant::displayMenu()
+{
+	cout << "---- Menu -------------------------------" << endl;
+	cout << "1) Search by cuisine" << endl;
+	cout << "2) See your favorite restaurants" << endl;
+	cout << "3) Rate a restaurant" << endl;
+	cout << "4) Help me figure out what to eat" << endl;
+	cout << "-----------------------------------------" << endl;
+}
 void Restaurant::setInitialMenuChoice() {
 	int choice; std::cin >> choice; switch (choice) {
 	case 1: searchByCuisine();
@@ -156,4 +171,31 @@ void Restaurant::setInitialMenuChoice() {
 	default:
 		std::cout << "Invalid choice. Please try again.\n";
 	}
+}
+void Restaurant::searchByCuisine() {
+	std::string cuisine;
+	std::cout << "What type of cuisine are you craving? ";
+	std::cin >> cuisine; 
+
+	bool found = false;
+	Restaurant* current = head; 
+	std::cout << "Restaurants offering " << cuisine << " cuisine:\n";
+	while (current != nullptr){
+		if (current->cuisine.find(cuisine) != std::string::npos) {
+			std::cout << "- " << current->name << " (Cost: $" << current->price << ", Rating: " << current->rating << ")\n";
+			found = true;
+	} 
+		current = current->next; 
+	}
+
+	if (!found) { std::cout << "Sorry, we found no restaurants found for the specified cuisine.\n"; }
+}
+void Restaurant::seeFavoriteRestaurants() {
+	// Display the user's favorite restaurants here 
+	//I'm hoping this doesn't require too many steps
+	std::cout << "Here are your favorite restaurants...\n";
+}
+void Restaurant::helpMeDecide() {
+	//std::cout << "Let me help you figure out what to eat...\n";
+	std::cout << "Let's try someething different today!";
 }
