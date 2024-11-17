@@ -39,10 +39,10 @@ public:
 	void setInitialMenuChoice(); 
 	//I'll be adding ui features - Alex
 	//commenting out to not conflate the work Gemma did - Alex
-	//void displayMenu();
-	//void searchByCuisine();
+	void displayMenu();
+	void searchByCuisine();
 	//void seeFavoriteRestaurants();
-	//void helpMeDecide();
+	void helpMeDecide();
 	//void loadRestaurantsFromFile(const std::string& filename);
 
 	void rateRestaurant();
