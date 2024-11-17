@@ -143,3 +143,17 @@ void Restaurant::saveRestaurantsToFile() const {
 		file.close();
 	}
 }
+void Restaurant::setInitialMenuChoice() {
+	int choice; std::cin >> choice; switch (choice) {
+	case 1: searchByCuisine();
+		break;
+	case 2: seeFavoriteRestaurants();
+		break;
+	case 3: rateRestaurant();
+		break;
+	case 4: helpMeDecide();
+		break;
+	default:
+		std::cout << "Invalid choice. Please try again.\n";
+	}
+}
