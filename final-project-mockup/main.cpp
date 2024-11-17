@@ -6,7 +6,11 @@ int makeSelection();
 
 int main()
 {
-	displayMenu();
+	Restaurant restaurant;
+	restaurant.loadRestaurantsFromFile("Restaurants.txt"); // Load the restaurant data from a file
+	restaurant.displayMenu();
+	restaurant.setInitialMenuChoice();
+	restaurant.saveRestaurantsToFile();
 
 
 	return 0;
