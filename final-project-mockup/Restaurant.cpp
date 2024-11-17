@@ -124,3 +124,22 @@ void Restaurant::favoriteRestaurant()
 	}
 
 }
+
+//saving restaurant edits to the file
+//saving the user edits to the restaurant list from the session
+//saving the user edits to the restaurant list from the session
+void Restaurant::saveRestaurantsToFile() const {
+	std::ofstream file("Restaurants.txt");
+	if (!file) {
+		std::cerr << "Failed to open file for writing: Restaurants.txt\n";
+		return;
+	}
+	Restaurant* current = head;
+	while (current != nullptr) {
+		{
+			file << current->name << "," << current->cuisine << "," << current->price << "," << current->rating << "\n";
+			current = current->next;
+		}
+		file.close();
+	}
+}
