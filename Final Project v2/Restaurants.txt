@@ -1,0 +1,50 @@
+Angelini Osteria,Italian,"veal, pasta, salad",75.00,4.5
+Bestia,Italian,"pasta, pizza, meatballs",80.00,4.6
+Bubba Gump Shrimp Co.,Seafood,"shrimp, seafood, fish",25.00,4.3
+Guelaguetza,Mexican,"tacos, mole, enchiladas",25.00,4.3
+Langer's Delicatessen,American,"pastrami, sandwiches, deli",30.00,4.6
+n/naka,Japanese,"kaiseki, wagyu, sushi",185.00,4.9
+Providence,Seafood,"lobster, oysters, seafood",100.00,4.7
+République,French,"steak, pastries, croissants",80.00,4.6
+The Griddle Cafe,American,"pancakes, breakfast, eggs",20.00,4.4
+Wurstküche,German,"beer, sausage, bratwurst",15.00,4.6
+Joan's on Third,American,"brunch, chicken salad, sandwiches",25.00,4.4
+Maccheroni Republic,Italian,"pasta, lasagna, risotto",30.00,4.6
+Holbox,Seafood,"ceviche, tacos, seafood",25.00,4.8
+Diddy Riese,Dessert,"brownies, ice cream sandwiches",20.00,4.6
+Daikokuya Little Tokyo,Japanese,"sushi, ramen, gyoza",25.00,4.4
+Perch,French,"ahi tuna, steak frites, cocktails",80.00,4.4
+Connie and Ted’s,Seafood,"lobster, clams, seafood pasta",80.00,4.5
+The Ivy,California,"lobster, seafood, pasta",80.00,4.2
+Lemonade,California,"poke, mango chicken, bowls",20.00,4.4
+Tocaya Organica,Mexican,"tacos, burritos, quesadillas",15.00,4.2
+Hoy-Ka,Thai,"noodles, pad thai, curry",20.00,4.5
+Jitlada,Thai,"pad thai, jitlada salad, curry",25.00,4.4
+Hae Jang Chon,Korean,"bulgogi, korean bbq, kimchi",45.00,4.5
+Moohan,Korean,"korean bbq, beef, pork",75.00,4.7
+Gangnam Station,Korean,"korean bbq, pork belly, beef",40.00,4.1
+Sun Nong Dan,Korean,"braised short ribs, galbi-jjim",50.00,4.3
+Kobawoo House,Korean,"bossam, pork belly, kimchi",30.00,4.5
+Aliki's Greek Taverna,Greek,"souvlaki, baklava, gyros",25.00,4.5
+Lucia Mediterranean Grill,Middle Eastern,"kebab, hummus, falafel",25.00,4.9
+Bavel,Middle Eastern,"hummus, pita, falafel",75.00,4.6
+Sushi Gen,Japanese,"sushi, sashimi, rolls",80.00,4.6
+Yamashiro Hollywood,Japanese,"sushi, cal-asian, tempura",75.00,4.3
+Tsubaki,Japanese,"latkes, sesame noodles, sushi",75.00,4.5
+Marugame Monzo,Japanese,"curry udon, tempura, soba",20.00,4.6
+Kinjiro,Japanese,"uni risotto, beef tongue, sushi",100.00,4.7
+Morihiro,Japanese,"sushi, omakase, sashimi",100.00,4.5
+NIKU X,Japanese,"seafood buffet, sushi, tempura",100.00,4.6
+Soregashi,Japanese,"sashimi, sushi, rolls",75.00,4.5
+Rossoblu,Italian,"handmade pasta, wine, lasagna",75.00,4.5
+Saigon Dish Vietnamese Restaurant,Vietnamese,"pho, noodles, spring rolls",15.00,4.6
+Viet on Fletcher,Vietnamese,"vermicelli, rice dishes, pho",20.00,5.0
+KTown Pho,Vietnamese,"pho, noodles, spring rolls",15.00,4.5
+Thien Huong,Vietnamese,"banh mi, pancakes, pho",15.00,4.6
+Pho Filet,Vietnamese,"pho, spring rolls, noodles",15.00,4.3
+Bé Ù,Vietnamese,"bo-la-lot, grilled beef, betel leaf",10.00,4.7
+Com tam Thuan Kieu,Vietnamese,"broken rice, pork chop, egg rolls",23.00,3.7
+L&E Oyster Bar,Seafood,"oysters, clams, seafood",75.00,4.6
+Pizzana,Italian,"pizza, margherita, pepperoni",20.00,4.0
+El Compadre,Mexican,"fajitas, tacos, enchiladas",30.00,4.3
+Pho 87,Vietnamese,"pho, beef noodles, soup",15.00,4.6
