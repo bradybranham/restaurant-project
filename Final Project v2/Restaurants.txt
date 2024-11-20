@@ -1,0 +1,100 @@
+23rd Street Cafe,Indian,"quesadilla, buritos, Naan",40.00,4.1
+71Above,American,"grilled ribeye, tuna, duck breast",100.00,4.5
+Ali'i Fish Company,Hawaiian,"poke bowls, fish burgers, creamy garlic",17.00,4.5
+Aliki's Greek Taverna,Greek,"chicken gyro, mousaka, baklava",25.00,4.5
+Aloha Food Factory,Hawaiian,"macadamia pancakes, shave ice, pig",20.00,4.5
+Angelini Osteria,Italian,"veal, pasta, salad",75.00,4.5
+Au Lac,Vegan,"noodles, rice raw, rainbow flan",25.00,4.6
+Badmaash,Indian,"chicken, poutine, samosas",40.00,4.1
+Bavel,Middle Eastern,"grilled prawns, kebab, tagine",75.00,4.6
+Bé Ù,Vietnamese,"bo-la-lot, grilled beef, betel leaf",10.00,4.7
+Bestia,Italian,"pasta, pizza, meatballs",80.00,4.6
+BIG ANT'S BBQ,American,"brisket, Mac n Cheese, ribs",60.00,4.6
+Biriyani Kabob House,Indian,"biryanis, curries, masala",15.00,4.1
+Bon Shabu,Japanese,"hotpot, wagyu, noodles",70.00,4.3
+Brazilian Plate House,Brazilian,"Prato feito, sandwiches, fries",23.00,4.4
+Broken Mouth,Hawaiian,"spam, beef, toast",15.00,4.9
+Bubba Gump Shrimp Co.,Seafood,"shrimp, seafood, fish",25.00,4.3
+Bulan Thai Vegetarian Kitchen,Vegan,"Thai curry, chicken wings, papaya salad",16.00,4.7
+Cantinho Brasileiro,Brazilian,"liguica sandwich, coxinha, beef",15.00,4.6
+Chimmelier,Korean,"shrimp toast, chicken sandwich, fried rice",15.00,4.5
+Chong Qing YaoMei,Chinese,"hotpot, dumplings, rolls",45.00,4.6
+Chubby Curry,Japanese,"curry, wagyu beef, udon",25.00,4.7
+Coco Ichibanya,Japanese,"curry, cutlet, nan bread",15.00,4.1
+Com tam Thuan Kieu,Vietnamese,"broken rice, pork chop, egg rolls",23.00,3.7
+Connie and Ted’s,Seafood,"lobster, clams, seafood pasta",80.00,4.5
+Crawfords,American,"fried chicken, beer, beef",15.00,4.6
+Crossroads Kitchen - Melrose,Vegan,"eggplant, carbonara, truffles",50.00,4.6
+Daikokuya Little Tokyo,Japanese,"sushi, ramen, gyoza",25.00,4.4
+daybird,Szechuan,"fried chicken, sandwiches, salad",15.00,4.5
+Diddy Riese,Dessert,"brownies, ice cream, sandwiches",20.00,4.6
+Doomie's Home Cookin',Vegan,"fires, poppers, burgers",17.00,4.4
+El Compadre,Mexican,"fajitas, tacos, enchiladas",30.00,4.3
+Fogo de Chão Steakhouse,Brazilian,"steak, seafood, brunch",75.00,4.2
+Gangnam Station,Korean,"korean bbq, pork belly, beef",40.00,4.1
+Gol Tong Chicken,South Korean,"fried chicken, salad, seafood",15.00,4.8
+Go Go Bird,California,"fried chicken, biscuit, gyoza",24.00,4.2
+Guelaguetza,Mexican,"tacos, mole, enchiladas",25.00,4.3
+Hae Jang Chon,Korean,"bulgogi, korean bbq, kimchi",45.00,4.5
+Haidilao Hot Pot,Sichuan,"hotpot, steamed bun, dumplings",60.00,4.8
+Holbox,Seafood,"ceviche, tacos, seafood",25.00,4.8
+Hoy-Ka,Thai,"noodles, pad thai, curry",20.00,4.5
+Jitlada,Thai,"pad thai, jitlada salad, curry",25.00,4.4
+Joan's on Third,American,"brunch, chicken salad, sandwiches",25.00,4.4
+Kinjiro,Japanese,"uni risotto, beef tongue, sushi",100.00,4.7
+Kismet,Mediterranean,"meats, crispy rice, lamb belly",75.00,4.3
+KTown Pho,Vietnamese,"pho, noodles, spring rolls",15.00,4.5
+Kobawoo House,Korean,"bossam, pork belly, kimchi",30.00,4.5
+L&E Oyster Bar,Seafood,"oysters, clams, seafood",75.00,4.6
+Langer's Delicatessen,American,"pastrami, sandwiches, deli",30.00,4.6
+Lao Ma Tou Hot Pot,Chinese,"hotpot, tofu, soup",50.00,4.1
+Lemonade,California,"poke, mango chicken, bowls",20.00,4.4
+Lokal Sandwich Shop,Vietnamese,"banh mi, burritos, smoothies",15.00,4.6
+Lucia Mediterranean Grill,Middle Eastern,"kebab, hummus, falafel",25.00,4.9
+Maccheroni Republic,Italian,"pasta, lasagna, risotto",30.00,4.6
+Malama Pono,Hawaiian,"seafood, loco moco, French toast",75.00,4.8
+Marugame Monzo,Japanese,"curry udon, tempura, soba",20.00,4.6
+Mazal,Israeli,"vegan food, hummus, bourekas",45.00,4.6
+Moohan,Korean,"korean bbq, beef, pork",75.00,4.7
+Mom's Haus,Louisiana,"fried chicken, sandwich, smoked brisket",20.00,4.2
+Moqueca Brazilian,Brazilian,"Fish Moqueca, coxinhas, plantains",40.00,4.7
+Morihiro,Japanese,"sushi, omakase, sashimi",100.00,4.5
+Moo's Craft Barbecue,Texas,"BBQ meats, burgers, lime pie",50.00,4.4
+n/naka,Japanese,"kaiseki, wagyu, sushi",185.00,4.9
+NIKU X,Japanese,"seafood buffet, sushi, tempura",100.00,4.6
+Nong Lá,Vietnamese,"banh mi, grilled chicken, spring rolls",20.00,4.3
+Perch,French,"ahi tuna, steak frites, cocktails",80.00,4.4
+Pho 87,Vietnamese,"pho, beef noodles, soup",15.00,4.6
+Pho Filet,Vietnamese,"pho, spring rolls, noodles",15.00,4.3
+Pijja Palace,Indian,"onion rings, chicken wings, rigatoni",40.00,4.1
+Pizzana,Italian,"pizza, margherita, pepperoni",20.00,4.0
+Providence,Seafood,"lobster, oysters, seafood",100.00,4.7
+Pura Vita,Vegan,"pizza, meatballs, salad",34.00,4.7
+Qianlixiang spicy hotpot,Chinese,"malatang, hotpot, kebab",30.00,4.5
+Rahel Ethiopian Vegan Cuisine,Vegan,"legume, stews, tea",30.00,4.7
+Redbird,American,"scallops, baked eggs, short rib",100.00,4.6
+République,French,"steak, pastries, croissants",80.00,4.6
+Rossoblu,Italian,"handmade pasta, wine, lasagna",75.00,4.5
+Ruen Pair,Thai,"Tom Yum, papaya salad, fried rice",25.00,4.4
+Sage Regenerative Kitchen & Brewery Echo Park,Vegan,"tacos, burrito, pizza",25.00,4.5
+Saigon Dish Vietnamese Restaurant,Vietnamese,"pho, noodles, spring rolls",15.00,4.6
+Shancheng Lameizi,Beijing,"hotpot, beef tongue, pig brain",65.00,4.2
+Soot Bull Jip,Korean,"BBQ, stew, guksu",60.00,4.3
+Soregashi,Japanese,"sashimi, sushi, rolls",75.00,4.5
+Sun Nong Dan,Korean,"braised short ribs, galbi-jjim",50.00,4.3
+Sushi Gen,Japanese,"sushi, sashimi, rolls",80.00,4.6
+Tocaya Organica,Mexican,"tacos, burritos, quesadillas",15.00,4.2
+The Butcher's Daughter,Vegan,"calamari, tacos, pancake",25.00,4.4
+The Griddle Cafe,American,"pancakes, breakfast, eggs",20.00,4.4
+The Ivy,California,"lobster, seafood, pasta",80.00,4.2
+The Little Door,French,"seafood, lamb, filet mignon",100.00,4.5
+The Vegan Joint,Vegan,"burgers, chicken, curry",15.00,4.7
+Thien Huong,Vietnamese,"banh mi, pancakes, pho",15.00,4.6
+Tokyo Fried Chicken,Japanese,"fried chicken, salad, chips",26.00,4.3
+Tsubaki,Japanese,"latkes, sesame noodles, sushi",75.00,4.5
+Ubatuba Açaí,Brazilian,"acai bowls, smoothies, empanadas",15.00,4.9
+Viet on Fletcher,Vietnamese,"vermicelli, rice dishes, pho",20.00,5.0
+Watdongmoonlek Noodle,Thai,"noodles, Tom Yum, mango sticky rice",17.00,4.6
+W Brazilian Steakhouse,Brazilian,"bread, churrasco, grilled meat",40.00,4.6
+Wurstküche,German,"beer, sausage, bratwurst",15.00,4.6
+Yamashiro Hollywood,Japanese,"sushi, cal-asian, tempura",75.00,4.3
